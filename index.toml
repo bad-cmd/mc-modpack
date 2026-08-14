@@ -141,6 +141,11 @@ hash = "e37b46af7cfa8f24e9895c37789b43d80d8abe519becf4f08d9e1ea1529fc126"
 metafile = true
 
 [[files]]
+file = "mods/otterlib.pw.toml"
+hash = "e3b5a62b7ccc46522f4094b979733d315196bd858f6a4e605adde8d241bbfce9"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
 metafile = true
