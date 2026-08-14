@@ -1,0 +1,13 @@
+name = "Badds"
+author = "badd"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c1256e951c1bec451487ce05b63a3df8f90168ef2a97d8e60af7bbd7c7514b81"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"
