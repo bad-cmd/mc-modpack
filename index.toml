@@ -241,11 +241,6 @@ hash = "879c8a6226e1215b7c47c5f7deb4614fcc8bb4fd4ba6b9320eed82e694513257"
 metafile = true
 
 [[files]]
-file = "mods/sway.pw.toml"
-hash = "075e46e730e64fc698580cb028f2cd208064c579ef27e26a05801d9b8dd06a7d"
-metafile = true
-
-[[files]]
 file = "mods/tlib.pw.toml"
 hash = "83539bba4fd6d270867c8a4c3cafb52a9faa098ceecb2833de4d499619777671"
 metafile = true
