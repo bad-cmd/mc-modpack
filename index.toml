@@ -106,6 +106,11 @@ hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
 metafile = true
 
 [[files]]
+file = "mods/fwa.pw.toml"
+hash = "a801fd4c4e000d9cefd8a4e3ca8b44eb7f569c6f1f8d4d0e6bdf6f387969c3ac"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
 metafile = true
@@ -161,6 +166,11 @@ hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
 metafile = true
 
 [[files]]
+file = "mods/mc2-interactive-foliage.pw.toml"
+hash = "85a0944ea72dfd04520042f316203b518e9676d31ae2a803ae80796aaaa59287"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
 metafile = true
@@ -183,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/otterlib.pw.toml"
 hash = "e3b5a62b7ccc46522f4094b979733d315196bd858f6a4e605adde8d241bbfce9"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "fe163c32ccd29d022202593f6623829e2c84ee306bcd0d08d70a2bf66e3a4036"
 metafile = true
 
 [[files]]
@@ -223,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "879c8a6226e1215b7c47c5f7deb4614fcc8bb4fd4ba6b9320eed82e694513257"
+metafile = true
+
+[[files]]
+file = "mods/sway.pw.toml"
+hash = "075e46e730e64fc698580cb028f2cd208064c579ef27e26a05801d9b8dd06a7d"
 metafile = true
 
 [[files]]
