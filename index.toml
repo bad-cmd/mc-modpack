@@ -111,11 +111,6 @@ hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
 metafile = true
 
 [[files]]
-file = "mods/fwa.pw.toml"
-hash = "a801fd4c4e000d9cefd8a4e3ca8b44eb7f569c6f1f8d4d0e6bdf6f387969c3ac"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
 metafile = true
