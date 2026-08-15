@@ -66,6 +66,11 @@ hash = "78bdce8abf641600aaea3abe95723ec6512c53b5d3a03cad6cabcba4b983bd97"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-glint-outline.pw.toml"
+hash = "8886e7b74ecab75a6606bfeac351370fcd719f02391fd41e124a74f5b2227cc5"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "88467a7bdda3717c87a35e0833daf833d69603794746106ae20c56408bc2f854"
 metafile = true
